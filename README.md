@@ -1,2 +1,2 @@
-# scIntegrativeAnaly
-Integrative analysis for single-cell RNA-seq
+# Integrative analysis for single-cell RNA-seq data
+True biological signals may be masked by technical artifacts and batch effects in single-cell RNA data derived from multiple experimental batches, donors, or conditions. To correct this, it is important to conduct integrative analysis. This repository explores several integrative analysis methods in R utilizing human PBMC dataset. The methods include: CCAIntegration, RPCAIntegration, HarmonyIntegration, FastMNNIntegration, and scVIIntegration.
